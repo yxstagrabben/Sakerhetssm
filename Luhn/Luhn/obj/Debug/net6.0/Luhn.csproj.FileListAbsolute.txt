@@ -1,0 +1,15 @@
+/home/anton/RiderProjects/Luhn/Luhn/bin/Debug/net6.0/Luhn
+/home/anton/RiderProjects/Luhn/Luhn/bin/Debug/net6.0/Luhn.deps.json
+/home/anton/RiderProjects/Luhn/Luhn/bin/Debug/net6.0/Luhn.runtimeconfig.json
+/home/anton/RiderProjects/Luhn/Luhn/bin/Debug/net6.0/Luhn.dll
+/home/anton/RiderProjects/Luhn/Luhn/bin/Debug/net6.0/ref/Luhn.dll
+/home/anton/RiderProjects/Luhn/Luhn/bin/Debug/net6.0/Luhn.pdb
+/home/anton/RiderProjects/Luhn/Luhn/obj/Debug/net6.0/Luhn.csproj.AssemblyReference.cache
+/home/anton/RiderProjects/Luhn/Luhn/obj/Debug/net6.0/Luhn.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/RiderProjects/Luhn/Luhn/obj/Debug/net6.0/Luhn.AssemblyInfoInputs.cache
+/home/anton/RiderProjects/Luhn/Luhn/obj/Debug/net6.0/Luhn.AssemblyInfo.cs
+/home/anton/RiderProjects/Luhn/Luhn/obj/Debug/net6.0/Luhn.csproj.CoreCompileInputs.cache
+/home/anton/RiderProjects/Luhn/Luhn/obj/Debug/net6.0/Luhn.dll
+/home/anton/RiderProjects/Luhn/Luhn/obj/Debug/net6.0/ref/Luhn.dll
+/home/anton/RiderProjects/Luhn/Luhn/obj/Debug/net6.0/Luhn.pdb
+/home/anton/RiderProjects/Luhn/Luhn/obj/Debug/net6.0/Luhn.genruntimeconfig.cache
